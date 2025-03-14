@@ -25,6 +25,7 @@ Below is a screenshot of the scraped IMDb Top 250 movies being queried in **DBea
 ## How It Works
 
 1. ***Data Collection:*** The script uses Playwright to navigate to IMDB's Top 250 Movies page and clicks on each movie's information button to extract detailed data
+   
    ![](https://github.com/AlvinChin1608/WebScraping_DB/blob/main/sample_scrape_demo.gif)
    
 2. ***Data Processing:*** Movie details are formatted consistently (e.g., duration is standardized to "H:MM" format, actor names are properly separated)
