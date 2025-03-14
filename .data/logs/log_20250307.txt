@@ -1,0 +1,553 @@
+2025-03-07 16:18:58.021156 - Error code in Top 250: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(".ipc-modal__content") to be visible
+
+2025-03-07 16:20:19.351041 - Insert top 250 error: Locator.text_content: Unexpected token "/" while parsing css selector "/html/body/div[4]/div[2]/div/div[2]/div/div/div[1]/div[2]/div[1]/a/h3". Did you mean to CSS.escape it?
+Call log:
+  - waiting for /html/body/div[4]/div[2]/div/div[2]/div/div/div[1]/div[2]/div[1]/a/h3 >> nth=0
+
+2025-03-07 16:20:44.302410 - Error code in Top 250: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(".ipc-modal__content") to be visible
+
+2025-03-07 16:25:31.785749 - Error code in Top 250: Page.evaluate: SyntaxError: Failed to execute 'querySelectorAll' on 'Document': '//*[@id="__next"]/main/div/div[3]/section/div/div[2]/div/ul/li[1]/div/div/div/div/div[3]/button' is not a valid selector.
+    at eval (eval at evaluate (:234:30), <anonymous>:2:42)
+    at UtilityScript.evaluate (<anonymous>:241:19)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-07 16:58:12.494703 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.555623 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.600966 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.653802 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.707100 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.746239 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.803258 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.853054 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.892624 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.932474 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:12.971758 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.011483 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.051901 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.092186 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.131971 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.171828 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.211817 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.251878 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.292127 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.332014 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.373237 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.411990 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.453920 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.492056 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.531780 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.571803 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.612336 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.651885 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.692309 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.732243 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.772596 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.812262 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.855584 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.906941 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.945575 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:13.985735 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.025466 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.065468 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.105402 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.145891 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.185718 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.225495 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.270006 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.321380 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.373520 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.413703 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.467553 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.520169 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.559450 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.599307 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.638922 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.678926 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.719108 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.759262 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.799162 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.839237 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.878735 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.919205 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.958893 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:14.999806 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.039036 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.078770 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.119108 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.158860 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.199193 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.239201 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.279044 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.319205 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.361347 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.399450 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.440263 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.478090 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.518570 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.558985 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.599009 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.638306 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.678588 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.719169 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.759107 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.799297 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.839542 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.879082 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.918433 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.958773 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:15.998856 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.041001 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.092386 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.132952 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.172566 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.212658 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.251460 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.292540 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.332457 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.372713 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.412249 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.454501 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.492324 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.532178 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.572608 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.613217 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.652415 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.692528 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.732802 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.774428 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.811901 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.852653 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.892222 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.931847 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:16.972528 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.012743 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.052813 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.092036 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.132911 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.173157 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.212949 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.253005 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.293004 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.333432 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.372739 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.413024 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.453124 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.493161 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.532981 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.572966 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.613080 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.652982 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.693142 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.733060 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.772824 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.813030 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.852982 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.893273 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.932745 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:17.978364 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.029477 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.082275 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.134736 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.172839 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.213777 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.253260 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.296247 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.347631 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.388276 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.429658 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.481478 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.520073 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.563159 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.614679 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.678092 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.758332 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.820812 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.872801 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.934434 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:18.989478 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.043063 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.099374 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.150247 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.203725 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.257150 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.320399 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.370029 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.418498 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.470500 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.523792 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.577581 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.630654 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.684474 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.737382 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.789887 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.829908 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.883303 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.937124 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:19.990561 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.043486 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.098342 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.149577 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.188114 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.231671 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.284164 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.336795 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.390860 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.444417 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.495958 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.537789 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.592225 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.643068 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.682991 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.722409 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.762599 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.802659 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.856975 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.896659 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.936402 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:20.978013 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.030197 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.069807 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.109748 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.162860 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.201832 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.242419 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.283015 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.322234 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.362546 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.402687 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.442719 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.483526 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.536553 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.590648 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.629649 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.670108 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.709571 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.749495 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.789847 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.829841 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.884698 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.938038 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:21.991234 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.044485 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.097974 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.151346 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.205099 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.258665 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.311978 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.365676 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.418772 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.472264 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.525698 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.578305 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.632043 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.683501 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.723911 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.775936 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.816002 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.856256 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.895978 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.936597 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:22.976409 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.018387 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.070732 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.110799 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.164286 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.203840 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.245506 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.297331 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.337179 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.377179 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.431167 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.485688 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.538105 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 16:58:23.592215 - Error code in Top 250: 'ElementHandle' object has no attribute 'locator'
+2025-03-07 17:02:24.858055 - Error processing movie #1: Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("button[aria-label=\"Close\"]").first
+  -     - locator resolved to <button tabindex="0" title="Close" aria-label="Close" aria-disabled="false" class="ipc-icon-button sc-iTVKth kCqcBQ ipc-icon-button--base ipc-icon-button--onBase">…</button>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     7 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+  -     - waiting for element to be visible, enabled and stable
+  -   - element was detached from the DOM, retrying
+
+2025-03-07 17:02:24.861219 - Error processing movie #2: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.863579 - Error processing movie #3: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.865846 - Error processing movie #4: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.868343 - Error processing movie #5: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.870294 - Error processing movie #6: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.872353 - Error processing movie #7: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.874067 - Error processing movie #8: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.875526 - Error processing movie #9: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.877223 - Error processing movie #10: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.878752 - Error processing movie #11: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.879917 - Error processing movie #12: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.881303 - Error processing movie #13: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.882683 - Error processing movie #14: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.884124 - Error processing movie #15: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.885550 - Error processing movie #16: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.887011 - Error processing movie #17: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.888375 - Error processing movie #18: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.889779 - Error processing movie #19: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.890796 - Error processing movie #20: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.892002 - Error processing movie #21: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.893133 - Error processing movie #22: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.894191 - Error processing movie #23: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.895224 - Error processing movie #24: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.896239 - Error processing movie #25: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.897395 - Error processing movie #26: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.898792 - Error processing movie #27: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.899926 - Error processing movie #28: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.900933 - Error processing movie #29: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.902048 - Error processing movie #30: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.903085 - Error processing movie #31: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.904051 - Error processing movie #32: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.905011 - Error processing movie #33: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.906253 - Error processing movie #34: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.907259 - Error processing movie #35: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.908193 - Error processing movie #36: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.909122 - Error processing movie #37: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.910047 - Error processing movie #38: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.911054 - Error processing movie #39: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.912151 - Error processing movie #40: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.913149 - Error processing movie #41: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.914124 - Error processing movie #42: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.915048 - Error processing movie #43: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.915954 - Error processing movie #44: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.916818 - Error processing movie #45: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.917948 - Error processing movie #46: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.918879 - Error processing movie #47: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.919766 - Error processing movie #48: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.922543 - Error processing movie #49: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.923550 - Error processing movie #50: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.924626 - Error processing movie #51: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.925526 - Error processing movie #52: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.926388 - Error processing movie #53: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.927333 - Error processing movie #54: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.928220 - Error processing movie #55: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.929087 - Error processing movie #56: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.929945 - Error processing movie #57: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.930809 - Error processing movie #58: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.931701 - Error processing movie #59: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.932686 - Error processing movie #60: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.933574 - Error processing movie #61: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.934429 - Error processing movie #62: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.935284 - Error processing movie #63: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.936350 - Error processing movie #64: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.937411 - Error processing movie #65: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.938422 - Error processing movie #66: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.939336 - Error processing movie #67: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.940200 - Error processing movie #68: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.941062 - Error processing movie #69: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.941930 - Error processing movie #70: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.942918 - Error processing movie #71: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.943808 - Error processing movie #72: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.944685 - Error processing movie #73: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.945631 - Error processing movie #74: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.946496 - Error processing movie #75: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.947403 - Error processing movie #76: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.948338 - Error processing movie #77: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.949319 - Error processing movie #78: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.950325 - Error processing movie #79: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.951509 - Error processing movie #80: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.952411 - Error processing movie #81: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.953304 - Error processing movie #82: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.954179 - Error processing movie #83: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.955058 - Error processing movie #84: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.955918 - Error processing movie #85: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.956759 - Error processing movie #86: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.957740 - Error processing movie #87: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.958699 - Error processing movie #88: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.959679 - Error processing movie #89: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.960636 - Error processing movie #90: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.961593 - Error processing movie #91: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.962525 - Error processing movie #92: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.963402 - Error processing movie #93: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.964330 - Error processing movie #94: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.965501 - Error processing movie #95: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.966416 - Error processing movie #96: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.967320 - Error processing movie #97: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.968206 - Error processing movie #98: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.969052 - Error processing movie #99: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.969916 - Error processing movie #100: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.970761 - Error processing movie #101: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.971636 - Error processing movie #102: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.972554 - Error processing movie #103: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.973437 - Error processing movie #104: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.974284 - Error processing movie #105: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.975158 - Error processing movie #106: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.975992 - Error processing movie #107: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.976830 - Error processing movie #108: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.977780 - Error processing movie #109: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.978902 - Error processing movie #110: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.979786 - Error processing movie #111: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.980643 - Error processing movie #112: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.981513 - Error processing movie #113: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.982455 - Error processing movie #114: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.983352 - Error processing movie #115: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.984218 - Error processing movie #116: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.985112 - Error processing movie #117: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.985973 - Error processing movie #118: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.986855 - Error processing movie #119: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.987719 - Error processing movie #120: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.988629 - Error processing movie #121: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.989517 - Error processing movie #122: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.990507 - Error processing movie #123: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.991420 - Error processing movie #124: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.992539 - Error processing movie #125: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.993428 - Error processing movie #126: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.994331 - Error processing movie #127: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.995231 - Error processing movie #128: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.996089 - Error processing movie #129: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.996953 - Error processing movie #130: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.997837 - Error processing movie #131: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.998715 - Error processing movie #132: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:24.999573 - Error processing movie #133: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.000435 - Error processing movie #134: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.001287 - Error processing movie #135: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.002158 - Error processing movie #136: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.003038 - Error processing movie #137: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.003958 - Error processing movie #138: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.004938 - Error processing movie #139: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.006058 - Error processing movie #140: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.006921 - Error processing movie #141: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.007973 - Error processing movie #142: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.008864 - Error processing movie #143: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.009746 - Error processing movie #144: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.010638 - Error processing movie #145: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.011515 - Error processing movie #146: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.012500 - Error processing movie #147: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.013492 - Error processing movie #148: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.014383 - Error processing movie #149: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.015261 - Error processing movie #150: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.016135 - Error processing movie #151: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.017230 - Error processing movie #152: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.018177 - Error processing movie #153: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.019072 - Error processing movie #154: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.020194 - Error processing movie #155: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.021054 - Error processing movie #156: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.021924 - Error processing movie #157: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.022796 - Error processing movie #158: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.023686 - Error processing movie #159: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.024584 - Error processing movie #160: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.025467 - Error processing movie #161: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.026358 - Error processing movie #162: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.027254 - Error processing movie #163: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.028151 - Error processing movie #164: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.029065 - Error processing movie #165: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.029935 - Error processing movie #166: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.030817 - Error processing movie #167: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.031777 - Error processing movie #168: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.032767 - Error processing movie #169: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.033858 - Error processing movie #170: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.034722 - Error processing movie #171: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.035585 - Error processing movie #172: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.036435 - Error processing movie #173: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.037317 - Error processing movie #174: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.038209 - Error processing movie #175: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.039146 - Error processing movie #176: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.040019 - Error processing movie #177: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.040880 - Error processing movie #178: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.041746 - Error processing movie #179: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.042634 - Error processing movie #180: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.043496 - Error processing movie #181: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.044403 - Error processing movie #182: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.045311 - Error processing movie #183: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.046200 - Error processing movie #184: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.047344 - Error processing movie #185: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.048243 - Error processing movie #186: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.049126 - Error processing movie #187: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.050028 - Error processing movie #188: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.050890 - Error processing movie #189: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.051764 - Error processing movie #190: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.052659 - Error processing movie #191: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.053557 - Error processing movie #192: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.054433 - Error processing movie #193: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.055304 - Error processing movie #194: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.056172 - Error processing movie #195: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.057034 - Error processing movie #196: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.057901 - Error processing movie #197: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.058812 - Error processing movie #198: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.059678 - Error processing movie #199: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.060806 - Error processing movie #200: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.061700 - Error processing movie #201: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.062681 - Error processing movie #202: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.063589 - Error processing movie #203: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.064468 - Error processing movie #204: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.065337 - Error processing movie #205: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.066189 - Error processing movie #206: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.067046 - Error processing movie #207: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.067928 - Error processing movie #208: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.068791 - Error processing movie #209: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.069664 - Error processing movie #210: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.070636 - Error processing movie #211: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.071537 - Error processing movie #212: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.072426 - Error processing movie #213: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.073325 - Error processing movie #214: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.074426 - Error processing movie #215: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.075283 - Error processing movie #216: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.076125 - Error processing movie #217: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.076971 - Error processing movie #218: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.077834 - Error processing movie #219: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.078723 - Error processing movie #220: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.079601 - Error processing movie #221: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.080473 - Error processing movie #222: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.081330 - Error processing movie #223: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.082203 - Error processing movie #224: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.083084 - Error processing movie #225: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.084041 - Error processing movie #226: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.084928 - Error processing movie #227: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.085806 - Error processing movie #228: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.086680 - Error processing movie #229: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.087936 - Error processing movie #230: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.088800 - Error processing movie #231: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.089718 - Error processing movie #232: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.090589 - Error processing movie #233: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.091479 - Error processing movie #234: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.092389 - Error processing movie #235: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.093286 - Error processing movie #236: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.094205 - Error processing movie #237: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.095124 - Error processing movie #238: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.096052 - Error processing movie #239: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.096976 - Error processing movie #240: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.097915 - Error processing movie #241: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.098791 - Error processing movie #242: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.099685 - Error processing movie #243: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.100574 - Error processing movie #244: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.101639 - Error processing movie #245: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.102535 - Error processing movie #246: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.103403 - Error processing movie #247: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.104257 - Error processing movie #248: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.105120 - Error processing movie #249: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:02:25.105981 - Error processing movie #250: Page.wait_for_selector: Target page, context or browser has been closed
+2025-03-07 17:04:44.017284 - Insert top 250 error: Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("X").get_by_role("X")
+
+2025-03-07 17:04:44.019063 - Error code in Top 250: Page.screenshot: Target page, context or browser has been closed
+2025-03-07 17:05:43.839115 - Insert top 250 error: Locator.click: Target page, context or browser has been closed
+2025-03-07 17:05:43.841086 - Error code in Top 250: Page.screenshot: Target page, context or browser has been closed
+2025-03-07 17:06:02.466144 - Insert top 250 error: Page.locator() got an unexpected keyword argument 'name'
+2025-03-07 17:07:11.742499 - Insert top 250 error: Locator.click: Unexpected token "/" while parsing css selector "/html/body/div[4]/div[2]/div/div[1]/button/svg". Did you mean to CSS.escape it?
+Call log:
+  - waiting for /html/body/div[4]/div[2]/div/div[1]/button/svg
+
+2025-03-07 17:08:24.385968 - Insert top 250 error: Locator.click: Unexpected token "/" while parsing css selector "/html/body/div[4]/div[2]/div/div[1]/button". Did you mean to CSS.escape it?
+Call log:
+  - waiting for /html/body/div[4]/div[2]/div/div[1]/button
+
+2025-03-07 17:09:21.155019 - Insert top 250 error: Locator.click: Target page, context or browser has been closed
+2025-03-07 17:09:21.156744 - Error code in Top 250: Page.screenshot: Target page, context or browser has been closed

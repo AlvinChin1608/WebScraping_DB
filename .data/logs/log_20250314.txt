@@ -1,0 +1,6 @@
+2025-03-14 17:05:05.166589 - Error uploading to SingleStore: [Errno 2] No such file or directory: '.data/raw_data//raw_data/20250314/top_250_movies.csv'
+2025-03-14 17:05:37.363359 - Error uploading to SingleStore: [Errno 2] No such file or directory: '.data/raw_data//raw_data/20250314/top_250_movies.csv'
+2025-03-14 17:06:43.879744 - Error uploading to SingleStore: [Errno 2] No such file or directory: '.data/raw_data//20250314/top_250_movies.csv'
+2025-03-14 17:06:48.586285 - Error uploading to SingleStore: [Errno 2] No such file or directory: '.data/raw_data//20250314/top_250_movies.csv'
+2025-03-14 18:19:32.700897 - Error uploading to SingleStore: 2003: Can't connect to MySQL server on '127.0.0.1' ([Errno 61] Connection refused)
+2025-03-14 18:21:55.966011 - Error uploading to SingleStore: 2003: Can't connect to MySQL server on '127.0.0.1' ([Errno 61] Connection refused)
