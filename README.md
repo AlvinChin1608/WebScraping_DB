@@ -44,5 +44,7 @@ Below is a screenshot of the scraped IMDb Top 250 movies being queried in **DBea
 ### Future Enhancements
 - Build a dashboard to visualize changes in movie rankings over time
 - Implement scheduling for automatic daily updates such as using Apache Airflow (Next project)
+- Upload the file to Amazon S3 to be used as csv buffer for Airflow
+- Implement staging table and stored procedure before inserting data to main
 - Add notifications for significant ranking changes
 - Expand to include more movie details and other IMDB lists
