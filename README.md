@@ -2,7 +2,7 @@
 
 This project is a data pipeline that automatically scrapes the IMDB Top 250 Movies list, processes the data, and stores it in a SingleStore database. It's designed to track changes in movie rankings and details over time by taking daily snapshots of the IMDB Top 250 list.
 
-Below is a screenshot of the scraped IMDb Top 250 movies being queried in **DBeaver** after being stored in **SingleStore**:
+Below is a screenshot of the scraped IMDb Top 250 movies being queried in **DBeaver** after being stored in SingleStore database:
 ![](https://github.com/AlvinChin1608/WebScraping_DB/blob/main/query_demo.png)
 
 ## Features
